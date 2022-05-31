@@ -31,7 +31,6 @@ body,html{
     margin: 0 auto;
     max-width: 600px;
 }
-         
 
            /* start page 1*/
 
@@ -205,8 +204,9 @@ body,html{
 
 
 .pop{
-   display: none;
+   display:none;
 }
+
 .pbg{
     width: 100vw;
     height: 100vh;
